@@ -7,6 +7,8 @@
 
 - 🇻🇳🇺🇸 // Asian American
 
+- born on the 27th of August
+
 - pronouns are they/them, *if you know me irl or we’re close friends, you’d know ;)*
 
 - High school student; second to last year
