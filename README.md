@@ -11,7 +11,7 @@
 
 - pronouns are they/them, *if you know me irl or we’re close friends, you’d know ;)*
 
-- High school student; second to last year
+- high school student; second to last year
 
 - currently working on a discord bot named *Bobert*
 
