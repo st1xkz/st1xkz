@@ -1,16 +1,22 @@
-### Hi there 👋
+# st1xkz ✨
+###### *Helloo :D* I’m sticks! I go by sticks/st1xkz but I bet you already knew that ;)
+###### I started coding around the same time I got back into Discord which was back in maybe November of 2020. Everything was shutting down from Covid so I wanted to pick up a new hobby and I found that you could make discord bots so I had asked some people about how to go with starting to code a discord bot and they recommended that I watched a video for beginners about ***__Python__***. ~~A week long video turned into taking a month or so to finish~~, and slowly but surely, my coding journey began and I’ve learned a lot since then. 
+----
 
-<!--
-**st1xkz/st1xkz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`About-me/Information`:
 
-Here are some ideas to get you started:
+- 🇻🇳🇺🇸 // Asian American
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- pronouns are they/them, *if you know me irl or we’re close friends, you’d know ;)*
+
+- High school student; second to last year
+
+- currently working on a discord bot named *Bobert*
+
+- codes in Python but also learning JavaScript :nerd_face:
+
+- ask me anything on [Tellonym](https://tellonym.me/st1xkz)!
+
+----
+
+###### *last edited: @ 2:15 PST 10/02/2021*
