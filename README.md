@@ -23,7 +23,7 @@
 
 ----
 
-<h3 align="center">Languages</h3>
-<p align="center">
+[<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>](https://www.python.org/)
+
 
 ###### *last edited: @ 2:15 PST 10/02/2021*
