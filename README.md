@@ -23,13 +23,20 @@
 
 ----
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Programming Languages:</h3>
 <div align="center">
 
-[![image](https://img.icons8.com/color/48/000000/javascript--v1.png)](https://www.linkedin.com/in/lauro_brant-1/)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brantlauro/)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/brantlauro)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.brantlauro@gmail.com)
+[![image](https://img.icons8.com/color/48/000000/python--v1.png)](https://www.python.org)[![image](https://img.icons8.com/color/48/000000/javascript--v1.png)](https://www.javascript.com)
+  
+</div>
+
+<h3 align="center">Connect with Me:</h3>
+<p align="center">
+    • Discord // sticks#5822
+</p>
+<div align="center">
+
+[![image](https://img.icons8.com/color/48/000000/discord--v2.png)](https://discord.gg/93XQycy6xk)[![image](https://img.icons8.com/color/48/000000/javascript--v1.png)](https://www.javascript.com)
   
 </div>
 
