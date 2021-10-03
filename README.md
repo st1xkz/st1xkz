@@ -32,11 +32,11 @@
 
 <h3 align="center">Connect with Me:</h3>
 <p align="center">
-    • Discord // sticks#5822
+    • disc // sticks#5822
 </p>
 <div align="center">
 
-[![image](https://img.icons8.com/color/48/000000/discord--v2.png)](https://discord.gg/93XQycy6xk)[![image](https://img.icons8.com/color/48/000000/javascript--v1.png)](https://www.javascript.com)
+[![image](https://img.icons8.com/color/48/000000/discord--v2.png)](https://discord.gg/93XQycy6xk)[![image](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/st1xkz/)[![image](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://mobile.twitter.com/givemethest1xkz)
   
 </div>
 
