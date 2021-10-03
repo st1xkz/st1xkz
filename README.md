@@ -23,4 +23,7 @@
 
 ----
 
+<h3 align="center">Languages</h3>
+<p align="center">
+
 ###### *last edited: @ 2:15 PST 10/02/2021*
