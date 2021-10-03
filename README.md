@@ -15,7 +15,7 @@
 
 - currently working on a discord bot named *Bobert*
 
-- codes in Python but also learning JavaScript :nerd_face:
+- shy and introverted irl, but online I'm more social 🙃
 
 - ask me anything on [Tellonym](https://tellonym.me/st1xkz)!
 
@@ -23,7 +23,14 @@
 
 ----
 
-[<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>](https://www.python.org/)
+<h3 align="center">Connect with me:</h3>
+<div align="center">
 
+[![image](https://img.icons8.com/color/48/000000/javascript--v1.png)](https://www.linkedin.com/in/lauro_brant-1/)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brantlauro/)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/brantlauro)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.brantlauro@gmail.com)
+  
+</div>
 
 ###### *last edited: @ 2:15 PST 10/02/2021*
