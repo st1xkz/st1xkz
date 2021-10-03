@@ -19,6 +19,8 @@
 
 - ask me anything on [Tellonym](https://tellonym.me/st1xkz)!
 
+- fun fact: I'm a HUGE music person and animal lover - I guess that's two facts for you :) :dizzy:
+
 ----
 
 ###### *last edited: @ 2:15 PST 10/02/2021*
