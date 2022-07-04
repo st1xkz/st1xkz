@@ -26,7 +26,7 @@
 <h3 align="center">Programming Languages:</h3>
 <div align="center">
 
-[![image](https://img.icons8.com/color/48/000000/python--v1.png)](https://www.python.org)[![image](https://img.icons8.com/color/48/000000/javascript--v1.png)](https://www.javascript.com)
+[![image](https://img.icons8.com/color/48/000000/python--v1.png)](https://www.python.org)[![image]
   
 </div>
 
@@ -40,4 +40,4 @@
   
 </div>
 
-###### *last edited: @ 4:57 PST 03/08/2022*
+###### *last edited: @ 1:53 PST 07/04/2022*
