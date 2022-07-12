@@ -10,6 +10,8 @@ More stuff about me: `Asian American`, `very introverted`, `has two dogs`, `like
 
 Currently working on my discord bot [bobert](https://github.com/st1xkz/bobert).
 
+![](https://dcbadge.vercel.app/api/shield/690631795473121280)
+
 **<details><summary>Tools I Use</summary>**
 
 | Languages    | IDE            | OS            | Other          |
