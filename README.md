@@ -14,9 +14,9 @@ Currently working on my discord bot [bobert](https://github.com/st1xkz/bobert).
 
 | Languages    | IDE            | OS            | Other          |
 |     :---:    |     :---:      |     :---:     |     :---:      |
-| ![](https://img.shields.io/badge/Python-000000?&style=for-the-badge&logo=python&logoColor=white)   | [![replit profile](https://img.shields.io/badge/Replit-000000?&style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@st1xkz)     | ![](https://img.shields.io/badge/Linux-000000?&style=for-the-badge&logo=linux&logoColor=1793D)    | ![](https://img.shields.io/badge/CashApp-000000?&style=for-the-badge&logo=cashapp&logoColor=00D632)     |
-| -     | ![](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078d7)       | ![](https://img.shields.io/badge/Android-000000?&style=for-the-badge&logo=android&logoColor=78C257)     | -      |
-| -    | -            | ![](https://img.shields.io/badge/iOS-000000?&style=for-the-badge&logo=ios&logoColor=white)            | -         |
+| [![python](https://img.shields.io/badge/Python-000000?&style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)   | [![replit profile](https://img.shields.io/badge/Replit-000000?&style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@st1xkz)     | [![linux](https://img.shields.io/badge/Linux-000000?&style=for-the-badge&logo=linux&logoColor=1793D)](https://www.linux.org/)    | ![](https://img.shields.io/badge/CashApp-000000?&style=for-the-badge&logo=cashapp&logoColor=00D632)     |
+| -     | [![vscode](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078d7)](https://code.visualstudio.com/)       | [![android](https://img.shields.io/badge/Android-000000?&style=for-the-badge&logo=android&logoColor=78C257)](https://www.android.com/)     | -      |
+| -    | -            | [![ios](https://img.shields.io/badge/iOS-000000?&style=for-the-badge&logo=ios&logoColor=white)](https://www.apple.com/ios/ios-15/)            | -         |
 
 </p>
 </details>
