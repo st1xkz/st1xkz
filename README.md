@@ -24,6 +24,7 @@ Currently working on my discord bot [bobert](https://github.com/st1xkz/bobert).
 **<details><summary>GitHub Statistics</summary>**
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=st1xkz&show_icons=true&theme=gruvbox&border_radius=25" />
+
   
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=st1xkz&layout=compact&theme=gruvbox&border_radius=25" />
 
@@ -33,4 +34,4 @@ Currently working on my discord bot [bobert](https://github.com/st1xkz/bobert).
 </details>
 
 
-###### *last edited: @ 5:00 PST 07/11/2022*
+###### *last edited: @ 11:54 pm PST 07/11/2022*
