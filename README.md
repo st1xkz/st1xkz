@@ -2,4 +2,4 @@
 
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=st1xkz&theme=github_dark&layout=compact&langs_count=8)
 
-###### *last edited: @ 6:08 pm PST 10/10/2022*
+###### *last edited: @ 11:21 pm PST 11/25/2022*
